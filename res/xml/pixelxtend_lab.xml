@@ -9,56 +9,56 @@
     android:title="@string/pixelxtend_title" >
 
         <!-- Theme Room -->
-        <Preference
+        <com.pixelxtend.lab.preferences.PixelxtendPreference
             android:key="theme_category"
             android:title="@string/theme_title"
             android:fragment="com.pixelxtend.lab.categories.ThemeSettings"
             android:icon="@drawable/ic_settings_theme"/>
         
         <!-- Status Bar -->
-        <Preference
+        <com.pixelxtend.lab.preferences.PixelxtendPreference
             android:key="statusbar_category"
             android:title="@string/statusbar_title"
             android:fragment="com.pixelxtend.lab.categories.StatusBarSettings" 
             android:icon="@drawable/ic_settings_statusbar"/>
 
         <!-- Quick Settings panel -->
-        <Preference
+        <com.pixelxtend.lab.preferences.PixelxtendPreference
             android:key="quicksettings_category"
             android:title="@string/quicksettings_title"
             android:fragment="com.pixelxtend.lab.categories.QuickSettings"
             android:icon="@drawable/ic_settings_quicksettings"/>
 
         <!-- Buttons -->
-        <Preference
+        <com.pixelxtend.lab.preferences.PixelxtendPreference
             android:key="buttonsettings_category"
             android:title="@string/button_title"
             android:fragment="com.pixelxtend.lab.categories.ButtonSettings"
             android:icon="@drawable/ic_settings_buttons"/>
 
         <!-- Gestures -->
-        <Preference
+        <com.pixelxtend.lab.preferences.PixelxtendPreference
             android:key="gestures_category"
             android:title="@string/gestures_title" 
             android:fragment="com.pixelxtend.lab.categories.GestureSettings"
             android:icon="@drawable/ic_settings_gestures"/>
 
         <!-- Lock Screen -->
-        <Preference
+        <com.pixelxtend.lab.preferences.PixelxtendPreference
             android:key="lockscreen_category"
             android:title="@string/lockscreen_title" 
             android:fragment="com.pixelxtend.lab.categories.LockScreenSettings"
             android:icon="@drawable/ic_settings_lockscreens"/>
 
         <!-- Notifications -->
-        <Preference
+        <com.pixelxtend.lab.preferences.PixelxtendPreference
             android:key="notifications_category"
             android:title="@string/notifications_title"
             android:fragment="com.pixelxtend.lab.categories.NotificationSettings"
             android:icon="@drawable/ic_settings_notifications"/>
         
         <!-- Misc -->
-        <Preference
+        <com.pixelxtend.lab.preferences.PixelxtendPreference
             android:key="misc_category"
             android:title="@string/misc_title" 
             android:fragment="com.pixelxtend.lab.categories.MiscSettings"
