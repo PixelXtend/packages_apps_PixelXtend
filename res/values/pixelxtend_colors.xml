@@ -1,0 +1,4 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+     <!-- Dashboard/homepage icon background colors -->
+     <color name="homepage_subicon_bg">@*android:color/system_neutral1_900</color>
+</resources>
