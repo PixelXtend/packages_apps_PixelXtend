@@ -13,6 +13,9 @@
     <string name="theme_title">Theme Room</string>
     <string name="notifications_title">Notifications</string>
 
+    <!-- Sub category -->
+    <string name="general_category">General</string>
+
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Reset</string>
