@@ -12,6 +12,7 @@
     <string name="statusbar_title">Status bar</string>
     <string name="theme_title">Theme Room</string>
     <string name="notifications_title">Notifications</string>
+    <string name="statusbar_icons">Icons</string>
 
     <!-- Sub category -->
     <string name="general_category">General</string>
@@ -30,4 +31,8 @@
     <string name="custom_seekbar_default_value">Default</string>
     <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
     <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+
+    <!-- Status bar Icon Manager -->
+    <string name="icon_manager_title">Status Bar Icons</string>
+    <string name="icon_manager_summary">Tune Statusbar Items</string>
 </resources>
