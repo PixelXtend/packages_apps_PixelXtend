@@ -13,6 +13,7 @@
     <string name="theme_title">Theme Room</string>
     <string name="notifications_title">Notifications</string>
     <string name="statusbar_icons">Icons</string>
+    <string name="clocksettings_category_title">Clock Customizations</string>
 
     <!-- Sub category -->
     <string name="general_category">General</string>
@@ -23,9 +24,6 @@
     <string name="cancel">Cancel</string>
     <string name="save">Save</string>
     
-    <!-- Sub category -->
-    <string name="general_category">General</string>
-
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">Default</string>
@@ -35,4 +33,15 @@
     <!-- Status bar Icon Manager -->
     <string name="icon_manager_title">Status Bar Icons</string>
     <string name="icon_manager_summary">Tune Statusbar Items</string>
+
+    <!-- Statusbar clock -->
+    <string name="status_bar_clock_position_title">Clock position</string>
+    <string name="status_bar_clock_position_left">Left</string>
+    <string name="status_bar_clock_position_right">Right</string>
+    <string name="status_bar_clock_position_center">Center</string>
+    <string name="status_bar_am_pm_title">Clock AM/PM style</string>
+    <string name="status_bar_am_pm_disabled">24-hour clock is enabled</string>
+    <string name="status_bar_am_pm_normal">Normal</string>
+    <string name="status_bar_am_pm_small">Small</string>
+    <string name="status_bar_am_pm_hidden">Hidden</string>
 </resources>
