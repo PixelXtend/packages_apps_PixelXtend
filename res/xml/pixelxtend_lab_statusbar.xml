@@ -18,6 +18,12 @@
             <intent android:action="com.android.settings.action.STATUS_BAR_TUNER" />
         </Preference>
 
+        <Preference
+        android:key="battery_settings"
+        android:fragment="com.pixelxtend.lab.fragments.StatusBarBattery"
+        android:title="@string/battery_style_title"
+        android:summary="@string/battery_style_summary" />
+
     </PreferenceCategory>
 
     <PreferenceCategory
