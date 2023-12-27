@@ -8,15 +8,4 @@
     android:title="@string/notifications_title"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
-    <PreferenceCategory
-        android:title="@string/general_category">
-
-    <Preference
-            android:key="island_notification"
-            android:title="@string/island_notification_title"
-            android:summary="@string/island_notification_summary"
-            android:fragment="com.android.settings.custom.fragment.notifications.IslandSettings" />
-
-   </PreferenceCategory>
-
 </PreferenceScreen>
