@@ -31,6 +31,13 @@
             android:summary="@string/theme_customization_signal_icon_summary"
             android:fragment="com.pixelxtend.lab.fragments.SignalIcons"/>
 
+        
+       <Preference
+        android:key="android.theme.customization.sb_data"
+        android:title="@string/theme_customization_data_title"
+        android:summary="@string/theme_customization_data_summary"
+        android:fragment="com.pixelxtend.lab.fragments.DataStyles" />
+
         <Preference
             android:key="android.theme.customization.wifi_icon"
             android:title="@string/theme_customization_wifi_icon_title"
