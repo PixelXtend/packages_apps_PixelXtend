@@ -14,9 +14,6 @@
     <string name="notifications_title">Notifications</string>
     <string name="statusbar_icons">Icons</string>
 
-    <!-- Sub category -->
-    <string name="general_category">General</string>
-
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Reset</string>
